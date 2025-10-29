@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "noorquacker@nqind.com",
+                "Name": "Noorquacker"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "jonkler",
+        "Icon": "battery",
+        "Id": "com.nqind.jonkler",
+        "Name": "Jonkler",
+        "Version": "1",
+        "Website": "https://www.nqind.com",
+        "BugReportUrl": "https://www.nqind.com"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
