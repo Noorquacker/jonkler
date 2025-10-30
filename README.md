@@ -2,7 +2,9 @@
 
 Adds a beautiful [KDE Plasma](https://kde.org/es/plasma-desktop/) [Plasmoid](https://userbase.kde.org/Plasma/Plasmoids) to your desktop showing a clip of jonkler on repeat
 
-Preview: TODO!
+Preview:
+
+![Jonkler Plasmoid Preview GIF](https://github.com/Noorquacker/jonkler/blob/main/jonkler_preview.gif?raw=true)
 
 ## How to Install?
 
